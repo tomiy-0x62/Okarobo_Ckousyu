@@ -1,7 +1,6 @@
 {
     "$comment1": "_____editor_____",
     "editor.fontSize": 14,
-    "editor.fontFamily": "PlemolJP Console",
     "editor.fontWeight": "bold",
     "editor.insertSpaces": true,
     "editor.tabSize": 4,
@@ -24,6 +23,6 @@
     "C_Cpp.updateChannel": "Insiders",
     "C_Cpp.autoAddFileAssociations": false,
     "C_Cpp.clang_format_style": "{BasedOnStyle: LLVM, IndentWidth: 4, ColumnLimit: 0, BreakBeforeBraces: Attach}",
-    "$memo": "BasedOnStyle: Mozilla, IndentWidth: 3, ColumnLimit: 0, BreakBeforeBraces: Allman",
+    "$memo": "BasedOnStyle: Mozilla, IndentWidth: 4, ColumnLimit: 0, BreakBeforeBraces: Allman",
     "editor.bracketPairColorization.enabled": true,
 }
